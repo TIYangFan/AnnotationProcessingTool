@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java_ann:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_ann_jar</output-path>
+    <root id="archive" name="java_ann.jar">
+      <element id="module-output" name="java_ann" />
+    </root>
+  </artifact>
+</component>
